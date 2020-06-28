@@ -34,6 +34,15 @@
   
  </p>
  
+## 📱 Screenshots #
+
+<p align="center">
+  <img src="https://itsallwidgets.com/screenshots/app-1860.png" width="250" hspace="4">
+  <img src="https://itsallwidgets.com/screenshots/app-1860-1.png" width="250" hspace="4">
+   <img src="https://itsallwidgets.com/screenshots/app-1860-2.png" width="250" hspace="4"> 
+   
+  
+</p>
  
 <h1 align="center">
     <br>
