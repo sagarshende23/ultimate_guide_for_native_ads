@@ -18,6 +18,8 @@
  
 </p>
 
+
+
 ## 📱 Gif #
 
 
@@ -31,6 +33,17 @@
 <img src="https://github.com/sagarshende23/ultimate_guide_for_native_ads/blob/master/native%20ads%20four.gif" >
   
  </p>
+ 
+ 
+<h1 align="center">
+    <br>
+  Download the Following App for Preview 
+  <br>
+</h1>
+<p align="center">
+<a href="https://api.codemagic.io/artifacts/5068fdde-7c68-4c62-88f6-d214f0929bb5/df92eb39-1a3f-417a-bf51-1ceb20de707b/app.apk" title="Image from PNG Image"><img src="https://i.imgur.com/srMcFcx.png" height="100"width="300" alt="download android app png 4"></a>
+</p>
+ 
  
  
 ## 🖥 Flutter Tutorial
