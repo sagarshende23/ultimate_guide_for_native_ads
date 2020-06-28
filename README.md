@@ -1,4 +1,3 @@
-## ultimate Guide for Native Ads
 <h1 align="center"> ultimate Guide for Native Ads </h1>
 
 
